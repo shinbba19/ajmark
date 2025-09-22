@@ -8,4 +8,4 @@ pip install streamlit
 
 streamlit run main.py
 
-in
+init
