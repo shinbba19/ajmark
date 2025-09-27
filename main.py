@@ -8,7 +8,7 @@ import numpy as np
 # --------------------------------------------------
 # Sidebar Menu
 # --------------------------------------------------
-menu = ["Data Dashboard", "Financial Calculator"]
+menu = ["Data Dashboard", "Financial Calculator","Hello Get"]
 choice = st.sidebar.selectbox("Menu", menu)
 
 # --------------------------------------------------
